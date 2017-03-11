@@ -1,3 +1,6 @@
+# Sampale code in python notebook
+```python
+
 {
  "cells": [
   {
@@ -1998,3 +2001,5 @@
  "nbformat": 4,
  "nbformat_minor": 2
 }
+
+```
