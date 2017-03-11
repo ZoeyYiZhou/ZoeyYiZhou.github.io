@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/ZoeyYiZhou/ZoeyYiZhou.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 You can check my [sample code](sampleCode.md)
+another sample code in [Python notebook](yizhou_sampale.md)
 
 ### Markdown
 
