@@ -2,6 +2,27 @@
 layout: default
 ---
 
+Hi I am zoe from UCDAivs, this is my data science portforlio 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
