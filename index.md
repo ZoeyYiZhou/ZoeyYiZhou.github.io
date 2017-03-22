@@ -2,10 +2,7 @@
 layout: default
 title: Yi Zhou 
 description: Data Science Portfolio 
-show_downloads: true
-
-
-
+show_downloads:
 ---
 
 Hi I am zoe from UCDAivs, this is my data science portforlio 
