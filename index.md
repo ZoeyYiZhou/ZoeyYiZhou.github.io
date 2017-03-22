@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Yi Zhou's Data Science Portfolio 
-description: miemiemimei
+title: Yi Zhou 
+description: Data Science Portfolio 
 show_downloads: true
 
 
@@ -10,8 +10,8 @@ show_downloads: true
 
 Hi I am zoe from UCDAivs, this is my data science portforlio 
 
-
-
+[Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
+[Link to another page](another-page).
 
 
 
