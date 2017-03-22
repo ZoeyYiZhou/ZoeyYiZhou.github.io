@@ -5,15 +5,19 @@ description: Data Science Portfolio
 show_downloads:
 ---
 
-< img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
-
 Hi I am zoe from UCDAivs, this is my data science portforlio 
 
 [Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
 [Link to another page](another-page).
 
+< img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
 
 
+
+
+### Large image
+
+![](zoe.jpg)
 
 
 
