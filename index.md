@@ -5,7 +5,7 @@ description: Data Science Portfolio
 show_downloads:
 ---
 
-< img src="zoe.JPG" style="float: right; padding: 2em" width="30%">
+< img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
 
 Hi I am zoe from UCDAivs, this is my data science portforlio 
 
