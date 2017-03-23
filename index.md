@@ -18,7 +18,7 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 - Winter 2017 STA 207
    - [Project](https://drive.google.com/file/d/0B2oyM6CwCUTKdzkwc3ZHcjRmRW8/view)
 - Fall 2016 STA 206
-   - [Project](206.htm)
+   - [Project](https://drive.google.com/file/d/0B2oyM6CwCUTKRFBXbzNTc2pJRjA/view)
 
 
 
