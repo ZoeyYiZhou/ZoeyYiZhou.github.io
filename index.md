@@ -12,27 +12,23 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 
 # [](#header-2)Course Work
 
-* [Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
+* [Winter 2017 STA 141B ]
+[Project](https://zoeyyizhou.github.io/141BProject/) 
+[Homework Example](Yi_Zhou_assignment6.html) 
 
 * [Winter 2017 STA 207 Project](STA207_FinalPrj_YanlinLi_Yizhou)
 
 * [Fall 2016 STA 206 Project](STAT206_YiZhou_YanlinLi_Jingli_Report)
 
 
-< img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
+ < img src="zoe.jpg" style="float: right; padding: 2em" width="30%"> 
 
 # [](#header-3)Contact Me
-* <a href="mailto:zoezhou@ucdavis.edu"> Yi, Zhou</a >;   
+* <a href="mailto:zoezhou@ucdavis.edu"> Yi Zhou</a >;   
 * [LinkedIn](https://www.linkedin.com/in/yi-zhou-8b3995a6)
 
 
 
-
-
-
-
-
-Email
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
