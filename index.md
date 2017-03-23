@@ -17,9 +17,9 @@ I am a graduate student at the University of California, Davis, pursuing my mast
    - [Homework Example](Yi_Zhou_assignment6.html) 
    - [Homework Example 2](YiZhouAssignment2.html) 
 - Winter 2017 STA 207
-   - [Project](https://view.publitas.com/p222-12524/sta207_finalprj/)
+   - [Final Project](https://view.publitas.com/p222-12524/sta207_finalprj/)
 - Fall 2016 STA 206
-   - [Project](https://drive.google.com/file/d/0B2oyM6CwCUTKRFBXbzNTc2pJRjA/view)
+   - [Final Project](https://view.publitas.com/p222-12524/stat206report/)
 
 
 
