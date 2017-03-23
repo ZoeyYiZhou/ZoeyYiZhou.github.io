@@ -5,6 +5,7 @@ description: Data Science Portfolio
 show_downloads:
 ---
 About me
+
 I am a graduate student at the University of California, Davis, pursuing my master’s degree in Statistics. Before this I was an undergraduate student at UCD major in statistics and minor in Managerial Economics.  During my time at UC Davis, my studies have sparked my interests in conducting quantitative analysis and building statistical models on big data sets. 
 
 
