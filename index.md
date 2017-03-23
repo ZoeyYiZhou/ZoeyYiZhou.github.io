@@ -12,15 +12,11 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 
 # [](#header-2)Course Work
 
-* [Winter 2017 STA 141B ]
-
-[Project](https://zoeyyizhou.github.io/141BProject/)
-
-[Homework Example](Yi_Zhou_assignment6.html) 
-
-* [Winter 2017 STA 207 Project](STA207_FinalPrj_YanlinLi_Yizhou)
-
-* [Fall 2016 STA 206 Project](STAT206_YiZhou_YanlinLi_Jingli_Report)
+- [Winter 2017 STA 141B ]
+   - [Project](https://zoeyyizhou.github.io/141BProject/)
+   - [Homework Example](Yi_Zhou_assignment6.html) 
+- [Winter 2017 STA 207 Project](STA207_FinalPrj_YanlinLi_Yizhou)
+- [Fall 2016 STA 206 Project](STAT206_YiZhou_YanlinLi_Jingli_Report)
 
 
  < img src="zoe.jpg" style="float: right; padding: 2em" width="30%"> 
