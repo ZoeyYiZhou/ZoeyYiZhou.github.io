@@ -22,6 +22,8 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 < img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
 
 # [](#header-3)Contact Me
+* <a href="mailto:zoezhou@ucdavis.edu"> Yi, Zhou</a >;   
+* [LinkedIn](https://www.linkedin.com/in/yi-zhou-8b3995a6)
 
 
 
@@ -30,9 +32,7 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 
 
 
-
-
-
+Email
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
