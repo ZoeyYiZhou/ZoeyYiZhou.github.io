@@ -12,16 +12,16 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 
 # [](#header-2)Course Work
 
-[Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
+* [Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
 
-[Winter 2017 STA 207 Project](another-page)
+* [Winter 2017 STA 207 Project](https://zoeyyizhou.github.io/STA207_FinalPrj_YanlinLi_Yizhou.pdf/)
 
-[Fall 2016 STA 206 Project](another-page).
+* [Fall 2016 STA 206 Project](https://zoeyyizhou.github.io/STAT206_YiZhou_YanlinLi_Jingli_Report.pdf/).
 
 
 < img src="zoe.jpg" style="float: right; padding: 2em" width="30%">
 
-
+# [](#header-3)Contact Me
 
 
 
