@@ -19,7 +19,6 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 - [Fall 2016 STA 206 Project](STAT206_YiZhou_YanlinLi_Jingli_Report)
 
 
- < img src="zoe.jpg" style="float: right; padding: 2em" width="30%"> 
 
 # [](#header-3)Contact Me
 * <a href="mailto:zoezhou@ucdavis.edu"> Yi Zhou</a >;   
