@@ -21,7 +21,7 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 
 
 # [](#header-3)Contact Me
-* <a href="mailto:zoezhou@ucdavis.edu"> Yi Zhou</a >;   
+* <a href="mailto:zoezhou@ucdavis.edu"> Yi Zhou's email </a >   
 * [LinkedIn](https://www.linkedin.com/in/yi-zhou-8b3995a6)
 
 
