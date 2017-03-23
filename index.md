@@ -11,8 +11,11 @@ I am a graduate student at the University of California, Davis, pursuing my mast
 ![](zoe.jpg)
 
 # [](#header-2)Course Work
+
 [Winter 2017 STA 141B Project](https://zoeyyizhou.github.io/141BProject/) 
+
 [Winter 2017 STA 207 Project](another-page)
+
 [Fall 2016 STA 206 Project](another-page).
 
 
