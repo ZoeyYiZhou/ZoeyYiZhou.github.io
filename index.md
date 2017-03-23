@@ -16,9 +16,9 @@ I am a graduate student at the University of California, Davis, pursuing my mast
    - [Project](https://zoeyyizhou.github.io/141BProject/)
    - [Homework Example](Yi_Zhou_assignment6.html) 
 - Winter 2017 STA 207
-   - [Project](STA207_FinalPrj_YanlinLi_Yizhou.html)
+   - [Project](207.htm)
 - Fall 2016 STA 206
-   - [Project](STAT206_YiZhou_YanlinLi_Jingli_Report.html)
+   - [Project](206.htm)
 
 
 
